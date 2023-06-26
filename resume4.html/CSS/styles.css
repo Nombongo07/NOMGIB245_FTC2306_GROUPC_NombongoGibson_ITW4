@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    background-color: blue;
+   
+}
+ img{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: blue;
+    display: block;
+    margin: auto;
+    }
+        
+
+a {
+    color: rgb(255, 0, 157);
+   
+  }
+aside ul li{
+    width: 250px;
+    background-color: black;
+    list-style: none;
+    padding: 20px;
+    background-attachment: fixed;
+    
+  }
+
+  img {
+    display: block; 
+    margin:  auto; 
+    width: 150px;
+    height: 150px;
+ }
+
+ header {
+    text-align: center;
+    margin-top: 20px; 
+  }
